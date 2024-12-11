@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee41159c-fa37-4b46-b700-ecf81eb86b49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/task_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/tasks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tracker.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/add_task_dialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/main_window.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee41159c-fa37-4b46-b700-ecf81eb86b49" name="Changes" comment="add first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -57,6 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,12 +61,25 @@
       <option name="presentableId" value="Default" />
       <updated>1733870359084</updated>
       <workItem from="1733870360310" duration="9767000" />
-      <workItem from="1733919325216" duration="6492000" />
+      <workItem from="1733919325216" duration="6793000" />
     </task>
+    <task id="LOCAL-00001" summary="add first commit">
+      <option name="closed" value="true" />
+      <created>1733926302954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733926302954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tracker$tracker.coverage" NAME="tracker Coverage Results" MODIFIED="1733924981049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
